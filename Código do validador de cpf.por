@@ -3,16 +3,6 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro parte_inicial,parte_meio,parte_final,parte_digitos
-		escreva("Digite os primeiros três digitos do cpf: ")
-		leia(parte_inicial)
-		escreva("Digite os três números do meio do cpf: ")
-		leia(parte_meio)
-		escreva("Digite os trê números finais do cpf: ")
-		leia(parte_final)
-		escreva("Digite os números verificadores: ")
-		leia(parte_digitos)
-		escreva("CPF: " + parte_inicial + "." + parte_meio + "." + parte_final + "-" + parte_digitos)
 	}
 }
 /* $$$ Portugol Studio $$$ 
