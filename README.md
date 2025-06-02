@@ -186,6 +186,14 @@ Calcular e encontrar o Segundo Dígito Verificador - SDV.
     - [ ] O resultado da comparação do PDV encontrado com o PDV do CPF digitado;
     - [ ] O resultado da comparação do SDV encontrado com o SDV do CPF digitado;
     - [ ] Uma mensagem informando se o CPF é válido ou não;
+ 
+  ## Etapa 9: Converter para Python
+
+### Objetivos
+A partir do código original, recriem ele usando o Python.
+
+### Tarefas
+- [ ] Recriar o código, a partir do original, em Python;
 ---
 
 Exemplo antes e depois de completar uma tarefa:
