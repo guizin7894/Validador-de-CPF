@@ -1,4 +1,4 @@
-programa
+program
 {
 inclua biblioteca Tipos
 inclua biblioteca Texto
